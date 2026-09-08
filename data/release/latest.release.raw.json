@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19743070,
       "digest": "sha256:a4465ef54e4366e33264c975cd489a905cf62b27143ab9cbf790dceeb3ba72d8",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-07-22T02:10:25Z",
       "updated_at": "2026-07-22T02:10:26Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-arm64.rpm"
