@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 19725241,
       "digest": "sha256:29f2ddee5e5b184699a26d218fbe0e662e4b684703dd7668b8b29595db3348ba",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-07-22T02:10:24Z",
       "updated_at": "2026-07-22T02:10:25Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.darwin-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21124117,
       "digest": "sha256:0664322d7a145af772b291ab4b5a2d8e2045e5645dbd1a90354d4340f6ba9efe",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-07-22T02:10:22Z",
       "updated_at": "2026-07-22T02:10:23Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 21247286,
       "digest": "sha256:4d8e7827cdd71824114895f69f4d92dcc893f7991da5543742ce8d16e2af83a6",
-      "download_count": 39,
+      "download_count": 45,
       "created_at": "2026-07-22T02:10:22Z",
       "updated_at": "2026-07-22T02:10:23Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.windows-386.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 21946546,
       "digest": "sha256:4ab52efa94efaaf3a63dd8478ca9a7cb897ce9967f13f4338a7479ad699887e6",
-      "download_count": 62,
+      "download_count": 68,
       "created_at": "2026-07-22T02:10:24Z",
       "updated_at": "2026-07-22T02:10:25Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.windows-amd64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 20393956,
       "digest": "sha256:bb31038bf10e05b54f0fed2e861f34c486afbd5e940ffc2e7b6c9cc40218e1a5",
-      "download_count": 39,
+      "download_count": 44,
       "created_at": "2026-07-22T02:10:22Z",
       "updated_at": "2026-07-22T02:10:23Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.windows-arm64.zip"
