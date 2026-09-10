@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21124117,
       "digest": "sha256:0664322d7a145af772b291ab4b5a2d8e2045e5645dbd1a90354d4340f6ba9efe",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-07-22T02:10:22Z",
       "updated_at": "2026-07-22T02:10:23Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-amd64.tar.gz"
