@@ -2,15 +2,15 @@ about:
   description: "XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world."
   license: Apache-2.0
   homepage: https://xgo.dev
-  head: ec0e4f5
+  head: 9f37b4a
   archived: false
   latestVersion: "v1.7.5"
   latestRelease: "v1.7.5"
   latestPrerelease: "v1.6.0-pre.3"
-  collectedAt: 2026-09-10T17:33:45Z
+  collectedAt: 2026-09-10T23:56:32Z
 timeline:
   created: 2015-12-12
-  lastCommit: 2026-09-05
+  lastCommit: 2026-09-10
   lastVersion: 2026-07-22
   lastRelease: 2026-07-22
   lastPrerelease: 2026-01-18
@@ -82,14 +82,14 @@ recent:
     commit: 0
 total:
   release: 140
-  mergedPR: 1931
-  openPR: 17
+  mergedPR: 1932
+  openPR: 16
   closedIssue: 612
   openIssue: 29
-  commit: 6205
+  commit: 6207
 ---
 path: /home/runner/.x-repo/github.com/goplus/gop
-collectedAt: 2026-09-10T17:33:48Z
+collectedAt: 2026-09-10T23:56:35Z
 loc:
   Go:
     code: 55651
