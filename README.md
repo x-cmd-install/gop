@@ -12,36 +12,7 @@ XGo is a programming language that reads like plain English. But it's also incre
 x install gop
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/goplus/gop>
-- **Homepage**: <https://xgo.dev>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v1.7.5` (2026-07-22)
-- **Last commit**: 2026-09-05
-- **Assets in release**: 15
-- **Published**: 2026-07-22T02:04:48Z
-
-## Popularity
-
-- **Stars**: 9,458 · **Forks**: 566 · **Open issues**: 641 · **Contributors**: 46
-
-## Totals (cumulative)
-
-- **Releases**: 140 · **Merged PRs**: 1931 · **Open PRs**: 16 · **Closed issues**: 612 · **Open issues**: 29 · **Commits**: 6205
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 19 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
+## Code insight
 
 Total: **55,728** lines of code across **380** files in the top 5 languages.
 
@@ -63,13 +34,64 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
+## Source
+
+- **Upstream**: <https://github.com/goplus/gop>
+- **Homepage**: <https://xgo.dev>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v1.7.5` (2026-07-22)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 15
+
+## Popularity
+
+- **Stars**: 9,458 · **Forks**: 566 · **Open issues**: 641 · **Contributors**: 46
+
+## Totals (cumulative)
+
+- **Releases**: 140 · **Merged PRs**: 1932 · **Open PRs**: 16 · **Closed issues**: 612 · **Open issues**: 29 · **Commits**: 6207
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 34 | 0 | 0 | 0 | 0 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [xgo1.7.5.checksums.txt](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.checksums.txt) | 1.3 KiB | `other` |
+| [xgo1.7.5.darwin-amd64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.darwin-amd64.tar.gz) | 19.9 MiB | `native/darwin/x64` |
+| [xgo1.7.5.darwin-arm64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.darwin-arm64.tar.gz) | 18.8 MiB | `native/darwin/arm64` |
+| [xgo1.7.5.linux-386.deb](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-386.deb) | 19.4 MiB | `other` |
+| [xgo1.7.5.linux-386.rpm](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-386.rpm) | 19.5 MiB | `other` |
+| [xgo1.7.5.linux-386.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-386.tar.gz) | 19.4 MiB | `native/unknown` |
+| [xgo1.7.5.linux-amd64.deb](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-amd64.deb) | 20.2 MiB | `native/linux/x64` |
+| [xgo1.7.5.linux-amd64.rpm](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-amd64.rpm) | 20.2 MiB | `native/linux/x64` |
+| [xgo1.7.5.linux-amd64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [xgo1.7.5.linux-arm64.deb](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-arm64.deb) | 18.8 MiB | `native/linux/arm64` |
+| [xgo1.7.5.linux-arm64.rpm](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-arm64.rpm) | 18.8 MiB | `native/linux/arm64` |
+| [xgo1.7.5.linux-arm64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-arm64.tar.gz) | 18.8 MiB | `native/linux/arm64` |
+| [xgo1.7.5.windows-386.zip](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.windows-386.zip) | 20.3 MiB | `native/win/x64` |
+| [xgo1.7.5.windows-amd64.zip](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.windows-amd64.zip) | 20.9 MiB | `native/win/x64` |
+| [xgo1.7.5.windows-arm64.zip](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.windows-arm64.zip) | 19.4 MiB | `native/win/arm64` |
+
 ## Improve this data
 
 Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gop.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gop.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:37:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:56:40Z._
