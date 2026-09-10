@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.7.5"
   latestRelease: "v1.7.5"
   latestPrerelease: "v1.6.0-pre.3"
-  collectedAt: 2026-09-10T05:37:18Z
+  collectedAt: 2026-09-10T17:33:45Z
 timeline:
   created: 2015-12-12
   lastCommit: 2026-09-05
@@ -20,7 +20,7 @@ popularity:
   fork: 566
   release: 140
   contributor: 46
-  pullRequest: 2201
+  pullRequest: 2202
   issue: 641
 language:
   Go: 1790549
@@ -83,13 +83,13 @@ recent:
 total:
   release: 140
   mergedPR: 1931
-  openPR: 16
+  openPR: 17
   closedIssue: 612
   openIssue: 29
   commit: 6205
 ---
 path: /home/runner/.x-repo/github.com/goplus/gop
-collectedAt: 2026-09-10T05:37:21Z
+collectedAt: 2026-09-10T17:33:48Z
 loc:
   Go:
     code: 55651
