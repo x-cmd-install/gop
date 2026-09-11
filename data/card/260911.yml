@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.7.5"
   latestRelease: "v1.7.5"
   latestPrerelease: "v1.6.0-pre.3"
-  collectedAt: 2026-09-11T05:32:28Z
+  collectedAt: 2026-09-11T19:20:25Z
 timeline:
   created: 2015-12-12
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-22
   lastPrerelease: 2026-01-18
 popularity:
-  star: 9458
+  star: 9459
   watcher: 171
   fork: 566
   release: 140
@@ -89,7 +89,7 @@ total:
   commit: 6207
 ---
 path: /home/runner/.x-repo/github.com/goplus/gop
-collectedAt: 2026-09-11T05:32:37Z
+collectedAt: 2026-09-11T19:20:28Z
 loc:
   Go:
     code: 55651
