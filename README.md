@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,458 · **Forks**: 566 · **Open issues**: 641 · **Contributors**: 46
+- **Stars**: 9,459 · **Forks**: 566 · **Open issues**: 641 · **Contributors**: 46
 
 ## Totals (cumulative)
 
@@ -94,4 +94,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:33:02Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:20:34Z._
