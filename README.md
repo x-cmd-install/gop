@@ -14,11 +14,11 @@ x install gop
 
 ## Code insight
 
-Total: **55,728** lines of code across **380** files in the top 5 languages.
+Total: **55,724** lines of code across **380** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 55,651 | 11,167 | 8,124 | 375 |
+| Go | 55,647 | 11,173 | 8,124 | 375 |
 | Makefile | 44 | 0 | 17 | 1 |
 | Dockerfile | 23 | 0 | 7 | 1 |
 | Bash | 4 | 32 | 6 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.5` (2026-07-22)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 9,460 · **Forks**: 565 · **Open issues**: 641 · **Contributors**: 46
+- **Stars**: 9,458 · **Forks**: 565 · **Open issues**: 641 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1933 · **Open PRs**: 15 · **Closed issues**: 612 · **Open issues**: 29 · **Commits**: 6209
+- **Releases**: 140 · **Merged PRs**: 1934 · **Open PRs**: 15 · **Closed issues**: 612 · **Open issues**: 29 · **Commits**: 6212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-18 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-19 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-24 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-19 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-20 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-25 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:01:39Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:06:40Z._
