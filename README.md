@@ -4,7 +4,7 @@
 
 XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 
-![gop](https://repo.x-cmd.io/gop.svg)
+[![x-cmd/install — gop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gop.svg)](https://x-cmd.com/install/gop)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.5` (2026-07-22)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-19
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 9,459 · **Forks**: 565 · **Open issues**: 641 · **Contributors**: 46
+- **Stars**: 9,458 · **Forks**: 565 · **Open issues**: 642 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1934 · **Open PRs**: 15 · **Closed issues**: 612 · **Open issues**: 29 · **Commits**: 6212
+- **Releases**: 140 · **Merged PRs**: 1934 · **Open PRs**: 15 · **Closed issues**: 613 · **Open issues**: 29 · **Commits**: 6214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:52:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:52:05Z._
