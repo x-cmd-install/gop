@@ -4,7 +4,7 @@
 
 XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 
-[![x-cmd/install — gop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gop.svg?lang=zh)](https://x-cmd.com/install/gop)
+[![x-cmd/install — gop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gop.svg?lang=zh)](https://x-cmd.com/install/gop)
 
 ## 安装
 
@@ -30,7 +30,7 @@ x install gop
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/12 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,7 +48,7 @@ x install gop
 
 ## 流行度
 
-- **Star**: 9,458 · **Fork**: 566 · **开放 issue**: 644 · **贡献者**: 46
+- **Star**: 9,457 · **Fork**: 566 · **开放 issue**: 644 · **贡献者**: 46
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install gop
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ gop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:51:35Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:54:19Z._
