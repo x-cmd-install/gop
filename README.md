@@ -30,7 +30,7 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,474 · **Forks**: 569 · **Open issues**: 646 · **Contributors**: 46
+- **Stars**: 9,472 · **Forks**: 569 · **Open issues**: 646 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1939 · **Open PRs**: 16 · **Closed issues**: 613 · **Open issues**: 33 · **Commits**: 6225
+- **Releases**: 140 · **Merged PRs**: 1939 · **Open PRs**: 18 · **Closed issues**: 613 · **Open issues**: 33 · **Commits**: 6225
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:24:48Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:09:45Z._

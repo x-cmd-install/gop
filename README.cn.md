@@ -30,7 +30,7 @@ x install gop
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,22 +48,22 @@ x install gop
 
 ## 流行度
 
-- **Star**: 9,474 · **Fork**: 569 · **开放 issue**: 646 · **贡献者**: 46
+- **Star**: 9,472 · **Fork**: 569 · **开放 issue**: 646 · **贡献者**: 46
 
 ## 累计统计
 
-- **发布数**: 140 · **已合并 PR**: 1939 · **开放 PR**: 16 · **已关闭 issue**: 613 · **开放 issue**: 33 · **提交数**: 6225
+- **发布数**: 140 · **已合并 PR**: 1939 · **开放 PR**: 18 · **已关闭 issue**: 613 · **开放 issue**: 33 · **提交数**: 6225
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ gop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:24:49Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:09:46Z._
