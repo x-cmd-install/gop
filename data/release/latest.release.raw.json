@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21159162,
       "digest": "sha256:54a2d391aeb3bfd4f91f168e6d3589636c4b1725b587ae27a3e9960f732f1598",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-07-22T02:10:27Z",
       "updated_at": "2026-07-22T02:10:28Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21209639,
       "digest": "sha256:17f48e5729a674fba90e988d74444ae549c2d66e1be3281a8288825dcb2aae36",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-07-22T02:10:27Z",
       "updated_at": "2026-07-22T02:10:28Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-amd64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21124117,
       "digest": "sha256:0664322d7a145af772b291ab4b5a2d8e2045e5645dbd1a90354d4340f6ba9efe",
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2026-07-22T02:10:22Z",
       "updated_at": "2026-07-22T02:10:23Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.7.5/xgo1.7.5.linux-amd64.tar.gz"
