@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.5` (2026-07-22)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-09
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 9,493 · **Forks**: 566 · **Open issues**: 646 · **Contributors**: 48
+- **Stars**: 9,493 · **Forks**: 566 · **Open issues**: 647 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1955 · **Open PRs**: 15 · **Closed issues**: 615 · **Open issues**: 31 · **Commits**: 6256
+- **Releases**: 140 · **Merged PRs**: 1956 · **Open PRs**: 15 · **Closed issues**: 615 · **Open issues**: 32 · **Commits**: 6263
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-13 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-14 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-19 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:49:06Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:24:15Z._
