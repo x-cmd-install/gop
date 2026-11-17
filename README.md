@@ -14,25 +14,15 @@ x install gop
 
 ## Code insight
 
-Total: **56,574** lines of code across **384** files in the top 5 languages.
+Total: **56,744** lines of code across **385** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 56,497 | 11,289 | 8,182 | 379 |
+| Go | 56,667 | 11,306 | 8,195 | 380 |
 | Makefile | 44 | 0 | 17 | 1 |
 | Dockerfile | 23 | 0 | 7 | 1 |
 | Bash | 4 | 32 | 6 | 2 |
 | JavaScript | 4 | 0 | 1 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.4 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -43,27 +33,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.7.5` (2026-07-22)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 9,494 · **Forks**: 566 · **Open issues**: 646 · **Contributors**: 48
+- **Stars**: 9,493 · **Forks**: 566 · **Open issues**: 646 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1964 · **Open PRs**: 16 · **Closed issues**: 614 · **Open issues**: 32 · **Commits**: 6279
+- **Releases**: 140 · **Merged PRs**: 1965 · **Open PRs**: 18 · **Closed issues**: 614 · **Open issues**: 32 · **Commits**: 6281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -94,4 +84,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:46:59Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:14:15Z._
