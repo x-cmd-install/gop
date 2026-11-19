@@ -32,8 +32,8 @@ Total: **56,744** lines of code across **385** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.7.5` (2026-07-22)
-- **Last commit**: 2026-11-17
+- **Latest**: `v1.8.0-pre.1` (2026-07-22)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **56,744** lines of code across **385** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1965 · **Open PRs**: 18 · **Closed issues**: 614 · **Open issues**: 32 · **Commits**: 6281
+- **Releases**: 141 · **Merged PRs**: 1968 · **Open PRs**: 18 · **Closed issues**: 614 · **Open issues**: 32 · **Commits**: 6288
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 35 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:14:15Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:20:55Z._
