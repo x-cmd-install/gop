@@ -14,13 +14,13 @@ x install gop
 
 ## Code insight
 
-Total: **56,744** lines of code across **385** files in the top 5 languages.
+Total: **56,804** lines of code across **386** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 56,667 | 11,306 | 8,195 | 380 |
+| Go | 56,723 | 11,305 | 8,201 | 381 |
 | Makefile | 44 | 0 | 17 | 1 |
-| Dockerfile | 23 | 0 | 7 | 1 |
+| Dockerfile | 27 | 0 | 7 | 1 |
 | Bash | 4 | 32 | 6 | 2 |
 | JavaScript | 4 | 0 | 1 | 1 |
 
@@ -32,48 +32,48 @@ Total: **56,744** lines of code across **385** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.8.0-pre.1` (2026-07-22)
-- **Last commit**: 2026-11-18
+- **Latest**: `v1.8.0` (2026-11-20)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 9,493 · **Forks**: 566 · **Open issues**: 646 · **Contributors**: 48
+- **Stars**: 9,492 · **Forks**: 566 · **Open issues**: 646 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 1968 · **Open PRs**: 18 · **Closed issues**: 614 · **Open issues**: 32 · **Commits**: 6288
+- **Releases**: 143 · **Merged PRs**: 1972 · **Open PRs**: 18 · **Closed issues**: 614 · **Open issues**: 32 · **Commits**: 6313
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-24 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-29 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-22 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-25 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-30 | 37 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [xgo1.7.5.checksums.txt](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.checksums.txt) | 1.3 KiB | `other` |
-| [xgo1.7.5.darwin-amd64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.darwin-amd64.tar.gz) | 19.9 MiB | `native/darwin/x64` |
-| [xgo1.7.5.darwin-arm64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.darwin-arm64.tar.gz) | 18.8 MiB | `native/darwin/arm64` |
-| [xgo1.7.5.linux-386.deb](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-386.deb) | 19.4 MiB | `other` |
-| [xgo1.7.5.linux-386.rpm](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-386.rpm) | 19.5 MiB | `other` |
-| [xgo1.7.5.linux-386.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-386.tar.gz) | 19.4 MiB | `native/unknown` |
-| [xgo1.7.5.linux-amd64.deb](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-amd64.deb) | 20.2 MiB | `native/linux/x64` |
-| [xgo1.7.5.linux-amd64.rpm](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-amd64.rpm) | 20.2 MiB | `native/linux/x64` |
-| [xgo1.7.5.linux-amd64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
-| [xgo1.7.5.linux-arm64.deb](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-arm64.deb) | 18.8 MiB | `native/linux/arm64` |
-| [xgo1.7.5.linux-arm64.rpm](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-arm64.rpm) | 18.8 MiB | `native/linux/arm64` |
-| [xgo1.7.5.linux-arm64.tar.gz](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.linux-arm64.tar.gz) | 18.8 MiB | `native/linux/arm64` |
-| [xgo1.7.5.windows-386.zip](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.windows-386.zip) | 20.3 MiB | `native/win/x64` |
-| [xgo1.7.5.windows-amd64.zip](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.windows-amd64.zip) | 20.9 MiB | `native/win/x64` |
-| [xgo1.7.5.windows-arm64.zip](https://github.com/goplus/gop/releases/download/v1.7.5/xgo1.7.5.windows-arm64.zip) | 19.4 MiB | `native/win/arm64` |
+| [xgo1.8.0.checksums.txt](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.checksums.txt) | 1.3 KiB | `other` |
+| [xgo1.8.0.darwin-amd64.tar.gz](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.darwin-amd64.tar.gz) | 22.1 MiB | `native/darwin/x64` |
+| [xgo1.8.0.darwin-arm64.tar.gz](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.darwin-arm64.tar.gz) | 20.6 MiB | `native/darwin/arm64` |
+| [xgo1.8.0.linux-386.deb](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-386.deb) | 21.0 MiB | `other` |
+| [xgo1.8.0.linux-386.rpm](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-386.rpm) | 21.4 MiB | `other` |
+| [xgo1.8.0.linux-386.tar.gz](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-386.tar.gz) | 21.0 MiB | `native/unknown` |
+| [xgo1.8.0.linux-amd64.deb](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-amd64.deb) | 21.8 MiB | `native/linux/x64` |
+| [xgo1.8.0.linux-amd64.rpm](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-amd64.rpm) | 22.2 MiB | `native/linux/x64` |
+| [xgo1.8.0.linux-amd64.tar.gz](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-amd64.tar.gz) | 21.7 MiB | `native/linux/x64` |
+| [xgo1.8.0.linux-arm64.deb](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-arm64.deb) | 19.8 MiB | `native/linux/arm64` |
+| [xgo1.8.0.linux-arm64.rpm](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-arm64.rpm) | 20.2 MiB | `native/linux/arm64` |
+| [xgo1.8.0.linux-arm64.tar.gz](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.linux-arm64.tar.gz) | 19.8 MiB | `native/linux/arm64` |
+| [xgo1.8.0.windows-386.zip](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.windows-386.zip) | 21.9 MiB | `native/win/x64` |
+| [xgo1.8.0.windows-amd64.zip](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.windows-amd64.zip) | 22.5 MiB | `native/win/x64` |
+| [xgo1.8.0.windows-arm64.zip](https://github.com/goplus/gop/releases/download/v1.8.0/xgo1.8.0.windows-arm64.zip) | 20.4 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for gop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:20:55Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:44:34Z._
