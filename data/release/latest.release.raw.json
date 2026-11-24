@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 22778341,
       "digest": "sha256:a7dfa467a14ce6a7fd6cf9514f4c6f6647ebaeff9ac07d78c54fa55d936bc8d0",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-20T04:04:57Z",
       "updated_at": "2026-11-20T04:04:58Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 23013792,
       "digest": "sha256:7f1203245195f46f15913bf603fad43f604081014fe728a5935a593933178c8f",
-      "download_count": 22,
+      "download_count": 26,
       "created_at": "2026-11-20T04:04:59Z",
       "updated_at": "2026-11-20T04:05:00Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.windows-386.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 23569848,
       "digest": "sha256:8dfc0f5d2853975c8b84b62e18da067595e199fb2bb96c3763e3d9c1617f5188",
-      "download_count": 38,
+      "download_count": 44,
       "created_at": "2026-11-20T04:04:57Z",
       "updated_at": "2026-11-20T04:04:58Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.windows-amd64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 21410422,
       "digest": "sha256:bdbecd820ca09f2f7c5179b15671c6a34c20280ad387f4bf2a0e55db59f17409",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-11-20T04:04:59Z",
       "updated_at": "2026-11-20T04:05:00Z",
       "browser_download_url": "https://github.com/goplus/xgo/releases/download/v1.8.0/xgo1.8.0.windows-arm64.zip"
